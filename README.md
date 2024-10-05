@@ -1,3 +1,5 @@
+1. Course Grading
+
 Student Performance Analysis Script
 This Python script processes student information, exercise scores, and exam points to calculate total scores and assign grades. The results are saved in both .txt and .csv formats.
 
